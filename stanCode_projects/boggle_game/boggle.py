@@ -1,6 +1,6 @@
 """
 File: boggle.py
-Name: 李柏諠
+Name: Edward
 ----------------------------------------
 TODO:
 """
