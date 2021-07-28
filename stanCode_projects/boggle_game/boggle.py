@@ -1,6 +1,6 @@
 """
 File: boggle.py
-Name: Edward
+Name: 
 ----------------------------------------
 TODO:
 """
