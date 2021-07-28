@@ -1,6 +1,6 @@
 """
 File:my-drawing
-Name:李柏諠
+Name:
 ----------------------
 TODO:
 """
