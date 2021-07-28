@@ -1,5 +1,5 @@
 """
-File: stanCodoshop.py  李柏諠
+File: stanCodoshop.py  
 ----------------------------------------------
 SC101_Assignment3
 Adapted from Nick Parlante's
